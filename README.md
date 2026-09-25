@@ -1,239 +1,263 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,35:F8BBD0,70:F48FB1,100:EC407A&height=230&section=header&text=FIDAN%20MAHARRAMLI&fontSize=46&fontColor=880E4F&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 🌸 Hi, I'm Fidan! 🌸
+# Hey, I'm Fidas
 
-### `C# / .NET Developer in progress 💻`
+### `C# / .NET Developer in progress`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=E75480&center=true&vCenter=true&width=650&lines=Turning+coffee+into+code+%E2%98%95;Learning+%2C+building+%2C+debugging+%F0%9F%90%9B;C%23+%7C+.NET+%7C+EF+Core+%7C+SQL;Still+figuring+it+out...+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=C2185B&center=true&vCenter=true&width=720&lines=Learning+C%23+and+.NET;Building+real+projects;Exploring+Entity+Framework+Core+and+SQL;Developing+strong+backend+foundations;Learning+something+new+every+day" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://img.shields.io/badge/C%23-FCE4EC?style=for-the-badge&logo=csharp&logoColor=D81B60"/>
+<img src="https://img.shields.io/badge/.NET-F8BBD0?style=for-the-badge&logo=dotnet&logoColor=AD1457"/>
+<img src="https://img.shields.io/badge/EF%20CORE-F48FB1?style=for-the-badge&logo=dotnet&logoColor=880E4F"/>
+<img src="https://img.shields.io/badge/SQL%20SERVER-EC407A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
+<br><br>
 
-
-## 🌷 About Me
-
-
-public class Fidan
-{
-    public string Name => "Fidan Maharrəmli";
-    public string Role => "Junior C# / .NET Developer";
-    
-    public string[] CurrentlyLearning =>
-    [
-        "C#",
-        ".NET",
-        "Entity Framework Core",
-        "SQL Server",
-        "ORM",
-        "OOP",
-        "N-Tier Architecture",
-        "Git & GitHub"
-    ];
-
-    public string[] Interests =>
-    [
-        "Backend Development",
-        "Clean Code",
-        "Learning Languages",
-        "Building Projects"
-    ];
-
-    public string Motto =>
-        "Learn it. Build it. Break it. Fix it. Repeat.";
-}
-🌸 A little bit about me
-💗 I am currently learning C# and .NET development
-🌱 Building my skills through real projects and practice
-🧠 Learning how applications work behind the scenes
-🛠️ Exploring ORM, Entity Framework Core and SQL Server
-🎯 Improving my coding skills step by step
-☕ Powered by curiosity, caffeine and debugging
-🎀 Tech Stack
-
-
-💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-
-
-
-🗄️ Database & ORM
-<img src="https://skillicons.dev/icons?i=sqlserver" />
-
-
-
-
-🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
-
-
-
-🌸 What I'm Learning
-| 🌷 Area | 💗 Focus |
-|:---:|:---|
-| `C#` | OOP, collections, methods, async/await |
-| `.NET` | Console applications & project structure |
-| `Entity Framework Core` | CRUD, relationships, migrations |
-| `SQL Server` | Databases, queries & relationships |
-| `ORM` | Working with data through EF Core |
-| `N-Tier Architecture` | Entity, DataAccess, Business, Presentation |
-| `Git` | Branches, commits, push, pull & repositories |
-| `Clean Code` | Readable and maintainable code |
-🎀 Featured Projects
-🌸 TicketSystem-OrmTask
-🎟️ A ticket management system built while learning C#, .NET and Entity Framework Core.
-Working with:
-- C#
-- .NET
-- Entity Framework Core
-- SQL Server
-- ORM
-- Async programming
-- N-Tier architecture
-- Entity relationships
-🔗 Repository:
-https://github.com/fidanmaharramli/TicketSystem-OrmTask
-🍓 RestaurantApp
-🍽️ A restaurant order management project created for practicing layered architecture and backend fundamentals.
-Working with:
-- C#
-- .NET
-- Entity
-- DataAccess
-- Business
-- Presentation
-- Repository pattern
-- CRUD operations
-🔗 Repository:
-https://github.com/fidanmaharramli/RestaurantApp
-🌷 StudentGroup
-🎓 A student and group management application built with Entity Framework Core.
-Working with:
-- C#
-- EF Core
-- SQL Server
-- CRUD
-- Relationships
-- Migrations
-- LINQ
-🔗 Repository:
-https://github.com/fidanmaharramli/StudentGroup
-⚡ AeonGridUltra
-⚡ A C# project created for practicing object-oriented programming, classes, interfaces and application architecture.
-Working with:
-- C#
-- OOP
-- Interfaces
-- Classes
-- Extensions
-- Object relationships
-🔗 Repository:
-https://github.com/fidanmaharramli/AeonGridUltra
-💗 My Developer Journey
-
-      🌱
-      │
-      ▼
-  Learning C#
-      │
-      ▼
-   OOP & .NET
-      │
-      ▼
-  SQL + EF Core
-      │
-      ▼
-    ORM
-      │
-      ▼
-  Real Projects
-      │
-      ▼
-  More debugging 🐛
-      │
-      ▼
-   Better code ✨
-      │
-      ▼
-      🚀
-      🌸 GitHub Statistics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fidanmaharramli&show_icons=true&theme=rose_pine&hide_border=true&title_color=E75480&icon_color=E75480&text_color=8E5A6A&bg_color=FFF5F8" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidanmaharramli&layout=compact&theme=rose_pine&hide_border=true&title_color=E75480&text_color=8E5A6A&bg_color=FFF5F8" />
+<img src="https://img.shields.io/badge/LEARNING%20%7C%20BUILDING-D81B60?style=for-the-badge&labelColor=FCE4EC"/>
 
 </div>
 
-🎀 Contribution Streak
+---
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fidanmaharramli&theme=rose_pine&hide_border=true&background=FFF5F8&ring=E75480&fire=E75480&currStreakLabel=E75480" />
-
-
-
-🌷 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fidanmaharramli&bg_color=fff5f8&color=e75480&line=e75480&point=ff69b4&area=true&hide_border=true" width="95%"/>
-
-
-💻 Current Focus
-
-🌸 Building a strong foundation in backend development
-
-C#  →  .NET  →  OOP  →  SQL  →  EF Core  →  ORM
-
-
-
-🎯 Goal: become a confident .NET developer
-🌱 Status: learning and building
-💗 Mindset: progress over perfection
-
-
-🐛 Debugging Philosophy
-
-"I write bugs. Then I fix them. Sometimes."
-Write code      💻
-      ↓
-Run project     🚀
-      ↓
-Error           💀
-      ↓
-Google          🔎
-      ↓
-Understand      🧠
-      ↓
-Fix it          🛠️
-      ↓
-Learn           🌱
-      ↓
-Repeat          ♻️
-🌸 A Few Things About Me
-
-
-💗 I enjoy learning new things
-
-
-🌷 I like exploring different languages
-
-
-💻 I enjoy building projects and seeing them actually work
-
-
-🧠 I believe mistakes are part of learning
-
-
-🎀 I am still at the beginning of my developer journey
-
-
-🚀 And I'm just getting started...
-
-
-🎀 Let's Connect
-
-
-🌷 Thanks for visiting my profile! 🌷
+## ABOUT ME
 
 </div>
-```
+
+I'm Fidan, a beginner **C# / .NET developer** currently building a strong foundation in backend development.
+
+My current focus is understanding how applications are structured, how they communicate with databases, and how different layers work together.
+
+I learn through practical projects and consistent practice, with a focus on writing clear, structured and maintainable code.
+
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/BACKEND%20DEVELOPMENT-FCE4EC?style=for-the-badge&labelColor=D81B60"/>
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-F8BBD0?style=for-the-badge&labelColor=C2185B"/>
+<img src="https://img.shields.io/badge/REAL%20PROJECTS-F48FB1?style=for-the-badge&labelColor=AD1457"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## TECHNOLOGIES
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+
+<br><br>
+
+### Database & Data Access
+
+<img src="https://skillicons.dev/icons?i=sqlserver"/>
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## CURRENTLY LEARNING
+
+</div>
+
+| Area | Focus |
+|---|---|
+| **C#** | Object-oriented programming, collections, methods and asynchronous programming |
+| **.NET** | Application structure and backend development fundamentals |
+| **Entity Framework Core** | CRUD operations, relationships, migrations and LINQ |
+| **SQL Server** | Database design, queries and relational data |
+| **ORM** | Working with databases through Entity Framework Core |
+| **N-Tier Architecture** | Entity, DataAccess, Business and Presentation layers |
+| **Git & GitHub** | Version control, repositories, commits and collaboration |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FCE4EC&height=4&section=header" width="85%"/>
+
+## FEATURED PROJECTS
+
+</div>
+
+### TicketSystem-OrmTask
+
+A ticket management system developed as part of my backend learning journey.
+
+The project focuses on **C#, .NET, Entity Framework Core, SQL Server and ORM**, with an emphasis on layered architecture and asynchronous operations.
+
+**Technologies:**  
+`C#` `.NET` `EF Core` `SQL Server` `ORM` `N-Tier Architecture`
+
+[View Repository](https://github.com/fidanmaharramli/TicketSystem-OrmTask)
+
+---
+
+### RestaurantApp
+
+A restaurant order management application created to practice layered application architecture and backend fundamentals.
+
+The project includes separate **Entity, DataAccess, Business and Presentation** layers.
+
+**Technologies:**  
+`C#` `.NET` `Entity` `DataAccess` `Business` `Presentation` `CRUD`
+
+[View Repository](https://github.com/fidanmaharramli/RestaurantApp)
+
+---
+
+### StudentGroup
+
+A student and group management application developed with **Entity Framework Core**.
+
+The project focuses on CRUD operations, relational data, migrations and database interaction.
+
+**Technologies:**  
+`C#` `EF Core` `SQL Server` `CRUD` `LINQ` `Migrations`
+
+[View Repository](https://github.com/fidanmaharramli/StudentGroup)
+
+---
+
+### AeonGridUltra
+
+A C# project focused on practicing object-oriented programming and working with classes, interfaces and extensions.
+
+**Technologies:**  
+`C#` `OOP` `Interfaces` `Classes` `Extensions`
+
+[View Repository](https://github.com/fidanmaharramli/AeonGridUltra)
+
+---
+
+<div align="center">
+
+## DEVELOPMENT JOURNEY
+
+<br>
+
+<img src="https://img.shields.io/badge/C%23-FCE4EC?style=for-the-badge&logo=csharp&logoColor=D81B60"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/.NET-F8BBD0?style=for-the-badge&logo=dotnet&logoColor=AD1457"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/OOP-F48FB1?style=for-the-badge&logoColor=880E4F"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/SQL-EC407A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/EF%20CORE-D81B60?style=for-the-badge&logo=dotnet&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/ORM-C2185B?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+Building knowledge through practice, projects and continuous improvement.
+
+</div>
+
+---
+
+<div align="center">
+
+## GITHUB STATISTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=fidanmaharramli&show_icons=true&hide_border=true&title_color=D81B60&icon_color=EC407A&text_color=8E5A6A&bg_color=FFF5F8"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidanmaharramli&layout=compact&hide_border=true&title_color=D81B60&text_color=8E5A6A&bg_color=FFF5F8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=fidanmaharramli&hide_border=true&background=FFF5F8&ring=D81B60&fire=EC407A&currStreakLabel=D81B60&sideLabels=AD1457&dates=8E5A6A"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## GITHUB ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fidanmaharramli&bg_color=FFF5F8&color=AD1457&line=EC407A&point=D81B60&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## CURRENT FOCUS
+
+<br>
+
+<img src="https://img.shields.io/badge/C%23-D81B60?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-C2185B?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENTITY%20FRAMEWORK-F06292?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20SERVER-EC407A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-D81B60?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br><br>
+
+### Building strong foundations in backend development.
+
+`C#` → `.NET` → `OOP` → `SQL` → `EF Core` → `ORM`
+
+<br>
+
+**Goal:** Become a confident .NET developer  
+**Focus:** Backend development and practical projects  
+**Approach:** Learn, practice, build, improve
+
+</div>
+
+---
+
+<div align="center">
+
+## A LITTLE PERSONAL NOTE
+
+<br>
+
+> **Learning takes time. Building takes patience.  
+> Progress comes from doing both consistently.**
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-FCE4EC?style=for-the-badge&labelColor=D81B60"/>
+<img src="https://img.shields.io/badge/BUILD-F8BBD0?style=for-the-badge&labelColor=C2185B"/>
+<img src="https://img.shields.io/badge/IMPROVE-F48FB1?style=for-the-badge&labelColor=AD1457"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## CONNECT
+
+<a href="https://github.com/fidanmaharramli">
+
+<img src="https://img.shields.io/badge/GitHub-FIDAN%20MAHARRAMLI-D81B60?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC407A,35:F48FB1,70:F8BBD0,100:FCE4EC&height=180&section=footer" width="100%"/>
+
+</div>
