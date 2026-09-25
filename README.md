@@ -13,11 +13,7 @@
 [![.NET](https://img.shields.io/badge/.NET-learning-C77D9B?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-learning-D98FA8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 
-</div>
 
----
-
-<div align="center">
 
 ## 🌷 About Me
 
@@ -37,13 +33,10 @@ And that's exactly how I'm growing.
 
 > 🌱 **A beginner today. A developer in progress.**
 
----
-
-<div align="center">
 
 ## 🎀 My Journey
 
-```text
+
 Curiosity
     ↓
 Learning
@@ -59,13 +52,11 @@ Understanding
 Building 🚀
     ↓
 Repeat ♡
-</div>
+
 
 <div align="center">
 
 💻 What I'm Learning
-</div>
-
 | 🌸 Technology | 📖 My Journey |
 |:---|:---|
 | `C#` | 🟢 Learning |
@@ -77,25 +68,12 @@ Repeat ♡
 | `Git & GitHub` | 🟢 Learning |
 | `N-Tier Architecture` | 🟡 Exploring |
 | `Web Development` | 🩷 Next step |
-<div align="center">
+
 
 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode&perline=6" />
-
-
-
-
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-E8AFC1?style=for-the-badge&logo=dotnet&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/SQL%20Server-D98FA8?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/OOP-C77D9B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ORM-BB7894?style=for-the-badge"/>
-
-</div>
-<div align="center">
 
 🌸 Projects I've Worked On
-</div>
 
 🎟️ TicketSystem-OrmTask
 A ticket management system created while learning C#, .NET, Entity Framework Core and N-Tier architecture.
@@ -113,24 +91,11 @@ AeonGridUltra
 An OOP practice project focused on classes, interfaces, extensions and object-oriented programming.
 Things I'm practicing:
 C# • OOP • Interfaces • Extensions
-<div align="center">
 
 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=fidanmaharramli&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidanmaharramli&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
-
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fidanmaharramli&theme=rose_pine&hide_border=true" />
-
-</div>
-<div align="center">
 
 🌱 A Little More About Me
-</div>
 🎓 Student
 💻 Beginner .NET Developer
 🌷 Learning C# & .NET
@@ -146,10 +111,10 @@ Sometimes the answer is easy.
 Sometimes the answer is:
 "Okay... let's figure this out." 😭
 And then I do.
-<div align="center">
+
 
 🎯 Where I'm Going
-</div>
+
 
 I'm at the beginning of my journey, so there is still a lot ahead of me.
 My current goals are:
@@ -162,7 +127,7 @@ My current goals are:
 - 📚 Keep building real projects
 - 🌍 Improve my English
 - 🚀 Keep moving forward, one step at a time
-<div align="center">
+
 
 💭 A Tiny Developer Thought
 
@@ -175,9 +140,7 @@ while (learning)
     learnFromThem();
     keepGoing();
 }
-</div>
 
-<div align="center">
 
 🌸 Still at the beginning.
 🌱 Still learning.
@@ -185,7 +148,4 @@ while (learning)
 
 Thanks for visiting my little corner of GitHub ♡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6D6E3&height=130&section=footer&fontColor=8B5268" width="100%"/>
 
-</div>
-```
