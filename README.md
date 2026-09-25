@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,35:F8BBD0,70:F48FB1,100:EC407A&height=230&section=header&text=FIDAN%20MAHARRAMLI&fontSize=46&fontColor=880E4F&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 💗 Hey, I'm Fidas
+# Hey, I'm Fidas
 
 ### 🌸 C# / .NET Developer in progress
 
@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">💗 ABOUT ME</h2>
+<h2 align="center"> ABOUT ME</h2>
 
 <div align="center">
 
@@ -34,7 +34,7 @@ I enjoy building projects, solving problems and improving my coding skills step 
 
 ---
 
-<h2 align="center">💗 TECHNOLOGIES</h2>
+<h2 align="center"> TECHNOLOGIES</h2>
 
 <h3 align="center">🌸 Programming & Frameworks</h3>
 
@@ -60,7 +60,7 @@ I enjoy building projects, solving problems and improving my coding skills step 
 
 ---
 
-<h2 align="center">💗 CURRENTLY LEARNING</h2>
+<h2 align="center"> CURRENTLY LEARNING</h2>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Learning backend development and software engineering step by step.
 
 ---
 
-<h2 align="center">💗 FEATURED PROJECTS</h2>
+<h2 align="center"> FEATURED PROJECTS</h2>
 
 <p align="center">
 
@@ -98,7 +98,7 @@ Learning backend development and software engineering step by step.
 
 ---
 
-<h2 align="center">💗 DEVELOPMENT JOURNEY</h2>
+<h2 align="center"> DEVELOPMENT JOURNEY</h2>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Every project is another step toward becoming a confident .NET developer.
 
 ---
 
-<h2 align="center">💗 GITHUB STATISTICS</h2>
+<h2 align="center"> GITHUB STATISTICS</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fidanmaharramli&show_icons=true&hide_border=true&title_color=d81b60&icon_color=ec407a&text_color=8e5a6a&bg_color=fff5f8"/>
@@ -128,7 +128,7 @@ Every project is another step toward becoming a confident .NET developer.
 
 ---
 
-<h2 align="center">💗 GITHUB ACTIVITY</h2>
+<h2 align="center"> GITHUB ACTIVITY</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fidanmaharramli&bg_color=fff5f8&color=ad1457&line=ec407a&point=d81b60&area=true&hide_border=true" width="95%"/>
@@ -136,7 +136,7 @@ Every project is another step toward becoming a confident .NET developer.
 
 ---
 
-<h2 align="center">💗 CURRENT FOCUS</h2>
+<h2 align="center"> CURRENT FOCUS</h2>
 
 <p align="center">
 
@@ -155,7 +155,7 @@ Learning consistently, building projects and becoming better with every line of 
 
 ---
 
-<h2 align="center">💗 A LITTLE PERSONAL NOTE</h2>
+<h2 align="center"> A LITTLE PERSONAL NOTE</h2>
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Learn. Build. Break. Fix. Repeat.
 
 ---
 
-<h2 align="center">💗 CONNECT</h2>
+<h2 align="center"> CONNECT</h2>
 
 <p align="center">
 
