@@ -1,29 +1,33 @@
-<p align="center">
-  <img src="https://vercel.app" width="100%"/>
-</p>
+<div align="center">
 
-# <p align="center">💕 Hey, I'm Fidan 💕</p>
+<img src="https://vercel.app" width="100%"/>
 
-### <p align="center">`C# / .NET Developer in progress`</p>
+# Hey, I'm Fidas
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG"/>
-</p>
+### `C# / .NET Developer in progress`
 
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+<img src="https://demolab.com" alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://shields.io"/>
-</p>
+<br>
+
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+
+<br><br>
+
+<img src="https://shields.io"/>
+
+</div>
 
 ---
 
-## <p align="center">🌸 ABOUT ME 🌸</p>
+<div align="center">
+
+## ABOUT ME
+
+</div>
 
 I'm Fidan, a beginner **C# / .NET developer** currently building a strong foundation in backend development.
 
@@ -31,34 +35,47 @@ My current focus is understanding how applications are structured, how they comm
 
 I learn through practical projects and consistent practice, with a focus on writing clear, structured and maintainable code.
 
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+<div align="center">
+
+<br>
+
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+
+</div>
 
 ---
 
-## <p align="center">🌸 TECHNOLOGIES 🌸</p>
+<div align="center">
 
-### <p align="center">Languages & Frameworks</p>
-<p align="center">
-  <img src="https://skillicons.dev"/>
-</p>
+## TECHNOLOGIES
 
-### <p align="center">Database & Data Access</p>
-<p align="center">
-  <img src="https://skillicons.dev"/>
-</p>
+### Languages & Frameworks
 
-### <p align="center">Development Tools</p>
-<p align="center">
-  <img src="https://skillicons.dev"/>
-</p>
+<img src="https://skillicons.dev"/>
+
+<br><br>
+
+### Database & Data Access
+
+<img src="https://skillicons.dev"/>
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev"/>
+
+</div>
 
 ---
 
-## <p align="center">🌸 CURRENTLY LEARNING 🌸</p>
+<div align="center">
+
+## CURRENTLY LEARNING
+
+</div>
 
 | Area | Focus |
 |---|---|
@@ -72,14 +89,18 @@ I learn through practical projects and consistent practice, with a focus on writ
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app" width="85%"/>
-</p>
+<div align="center">
 
-## <p align="center">🌸 FEATURED PROJECTS 🌸</p>
+<img src="https://vercel.app" width="85%"/>
+
+## FEATURED PROJECTS
+
+</div>
 
 ### TicketSystem-OrmTask
+
 A ticket management system developed as part of my backend learning journey.
+
 The project focuses on **C#, .NET, Entity Framework Core, SQL Server and ORM**, with an emphasis on layered architecture and asynchronous operations.
 
 **Technologies:**  
@@ -90,7 +111,9 @@ The project focuses on **C#, .NET, Entity Framework Core, SQL Server and ORM**, 
 ---
 
 ### RestaurantApp
+
 A restaurant order management application created to practice layered application architecture and backend fundamentals.
+
 The project includes separate **Entity, DataAccess, Business and Presentation** layers.
 
 **Technologies:**  
@@ -101,7 +124,9 @@ The project includes separate **Entity, DataAccess, Business and Presentation** 
 ---
 
 ### StudentGroup
+
 A student and group management application developed with **Entity Framework Core**.
+
 The project focuses on CRUD operations, relational data, migrations and database interaction.
 
 **Technologies:**  
@@ -112,6 +137,7 @@ The project focuses on CRUD operations, relational data, migrations and database
 ---
 
 ### AeonGridUltra
+
 A C# project focused on practicing object-oriented programming and working with classes, interfaces and extensions.
 
 **Technologies:**  
@@ -121,88 +147,117 @@ A C# project focused on practicing object-oriented programming and working with 
 
 ---
 
-## <p align="center">🌸 DEVELOPMENT JOURNEY 🌸</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://shields.io"/>
-  &nbsp;→&nbsp;
-  <img src="https://shields.io"/>
-  &nbsp;→&nbsp;
-  <img src="https://shields.io"/>
-  &nbsp;→&nbsp;
-  <img src="https://shields.io"/>
-  &nbsp;→&nbsp;
-  <img src="https://shields.io"/>
-  &nbsp;→&nbsp;
-  <img src="https://shields.io"/>
-</p>
+## DEVELOPMENT JOURNEY
 
-<p align="center">Building knowledge through practice, projects and continuous improvement.</p>
+<br>
 
----
+<img src="https://shields.io"/>
+&nbsp;→&nbsp;
+<img src="https://shields.io"/>
+&nbsp;→&nbsp;
+<img src="https://shields.io"/>
+&nbsp;→&nbsp;
+<img src="https://shields.io"/>
+&nbsp;→&nbsp;
+<img src="https://shields.io"/>
+&nbsp;→&nbsp;
+<img src="https://shields.io"/>
 
-## <p align="center">🌸 GITHUB STATISTICS 🌸</p>
+<br><br>
 
-<p align="center">
-  <img src="https://vercel.app" height="150" />
-  <img src="https://vercel.app" height="150" />
-</p>
+Building knowledge through practice, projects and continuous improvement.
 
-<p align="center">
-  <img src="https://demolab.com" />
-</p>
+</div>
 
 ---
 
-## <p align="center">🌸 GITHUB ACTIVITY 🌸</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://vercel.app" width="95%"/>
-</p>
+## GITHUB STATISTICS
+
+<img src="https://vercel.app" />
+
+<img src="https://vercel.app" />
+
+<br><br>
+
+<img src="https://demolab.com" />
+
+</div>
 
 ---
 
-## <p align="center">🌸 CURRENT FOCUS 🌸</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+## GITHUB ACTIVITY
 
-### <p align="center">Building strong foundations in backend development.</p>
+<img src="https://vercel.app" width="95%"/>
 
-<p align="center">`C#` → `.NET` → `OOP` → `SQL` → `EF Core` → `ORM`</p>
+</div>
+
+---
+
+<div align="center">
+
+## CURRENT FOCUS
+
+<br>
+
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+
+<br><br>
+
+### Building strong foundations in backend development.
+
+`C#` → `.NET` → `OOP` → `SQL` → `EF Core` → `ORM`
+
+<br>
 
 **Goal:** Become a confident .NET developer  
 **Focus:** Backend development and practical projects  
 **Approach:** Learn, practice, build, improve
 
+</div>
+
 ---
 
-## <p align="center">🌸 A LITTLE PERSONAL NOTE 🌸</p>
+<div align="center">
+
+## A LITTLE PERSONAL NOTE
+
+<br>
 
 > **Learning takes time. Building takes patience.  
 > Progress comes from doing both consistently.**
 
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+<br>
+
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+
+</div>
 
 ---
 
-## <p align="center">🌸 CONNECT 🌸</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io"/>
-  </a>
-</p>
+## CONNECT
 
-<p align="center">
-  <img src="https://vercel.app" width="100%"/>
-</p>
+<a href="https://github.com">
+
+<img src="https://shields.io"/>
+
+</a>
+
+<br><br>
+
+<img src="https://vercel.app" width="100%"/>
+
+</div>
