@@ -1,78 +1,257 @@
-# <p align="center">🔹 <code>fidanmaharramli / README.md</code> 🔹</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://demolab.com🌸+WELCOME+TO+MY+PROFILE+🌸;💖+FIDAN+MƏHƏRRƏMLİ+💖;✨+.NET+DEVELOPER+STUDENT+✨" alt="Typing SVG" />
-</p>
+# 🌸 Hi, I'm Fidan! 🌸
 
-<p align="center">
-  <b>🌸 Code Academy Student | Tech Enthusiast 🌸</b>
-</p>
+### `C# / .NET Developer in progress 💻`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=E75480&center=true&vCenter=true&width=650&lines=Turning+coffee+into+code+%E2%98%95;Learning+%2C+building+%2C+debugging+%F0%9F%90%9B;C%23+%7C+.NET+%7C+EF+Core+%7C+SQL;Still+figuring+it+out...+%F0%9F%8C%B8" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
 
 ---
 
-### <g-emoji class="g-emoji" alias="arrow_right" fallback-src="https://githubassets.com">▶️</g-emoji> <code>About Me</code>
+## 🌷 About Me
 
-```json
+```csharp
+public class Fidan
 {
-  "name": "Fidan",
-  "role": "Student & Beginner .NET Developer",
-  "status": [
-    "I'm still learning",
-    "I'm still making mistakes",
-    "I'm still asking a lot of questions"
-  ],
-  "motto": "A beginner today. A developer in progress. And that's exactly how I'm growing."
+    public string Name => "Fidan Məhərrəmli";
+    public string Role => "Junior C# / .NET Developer";
+    
+    public string[] CurrentlyLearning =>
+    [
+        "C#",
+        ".NET",
+        "Entity Framework Core",
+        "SQL Server",
+        "ORM",
+        "OOP",
+        "N-Tier Architecture",
+        "Git & GitHub"
+    ];
+
+    public string[] Interests =>
+    [
+        "Backend Development",
+        "Clean Code",
+        "Learning Languages",
+        "Building Projects"
+    ];
+
+    public string Motto =>
+        "Learn it. Build it. Break it. Fix it. Repeat.";
 }
+🌸 A little bit about me
+💗 I am currently learning C# and .NET development
+🌱 Building my skills through real projects and practice
+🧠 Learning how applications work behind the scenes
+🛠️ Exploring ORM, Entity Framework Core and SQL Server
+🎯 Improving my coding skills step by step
+☕ Powered by curiosity, caffeine and debugging
+🎀 Tech Stack
+<div align="center">
+
+💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+
+
+
+
+🗄️ Database & ORM
+<img src="https://skillicons.dev/icons?i=sqlserver" />
+
+
+
+
+🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+
+</div>
+
+🌸 What I'm Learning
+<div align="center">
+| 🌷 Area | 💗 Focus |
+|:---:|:---|
+| `C#` | OOP, collections, methods, async/await |
+| `.NET` | Console applications & project structure |
+| `Entity Framework Core` | CRUD, relationships, migrations |
+| `SQL Server` | Databases, queries & relationships |
+| `ORM` | Working with data through EF Core |
+| `N-Tier Architecture` | Entity, DataAccess, Business, Presentation |
+| `Git` | Branches, commits, push, pull & repositories |
+| `Clean Code` | Readable and maintainable code |
+🎀 Featured Projects
+🌸 TicketSystem-OrmTask
+🎟️ A ticket management system built while learning C#, .NET and Entity Framework Core.
+Working with:
+- C#
+- .NET
+- Entity Framework Core
+- SQL Server
+- ORM
+- Async programming
+- N-Tier architecture
+- Entity relationships
+🔗 Repository:
+https://github.com/fidanmaharramli/TicketSystem-OrmTask
+🍓 RestaurantApp
+🍽️ A restaurant order management project created for practicing layered architecture and backend fundamentals.
+Working with:
+- C#
+- .NET
+- Entity
+- DataAccess
+- Business
+- Presentation
+- Repository pattern
+- CRUD operations
+🔗 Repository:
+https://github.com/fidanmaharramli/RestaurantApp
+🌷 StudentGroup
+🎓 A student and group management application built with Entity Framework Core.
+Working with:
+- C#
+- EF Core
+- SQL Server
+- CRUD
+- Relationships
+- Migrations
+- LINQ
+🔗 Repository:
+https://github.com/fidanmaharramli/StudentGroup
+⚡ AeonGridUltra
+⚡ A C# project created for practicing object-oriented programming, classes, interfaces and application architecture.
+Working with:
+- C#
+- OOP
+- Interfaces
+- Classes
+- Extensions
+- Object relationships
+🔗 Repository:
+https://github.com/fidanmaharramli/AeonGridUltra
+💗 My Developer Journey
+<div align="center">
+      🌱
+      │
+      ▼
+  Learning C#
+      │
+      ▼
+   OOP & .NET
+      │
+      ▼
+  SQL + EF Core
+      │
+      ▼
+    ORM
+      │
+      ▼
+  Real Projects
+      │
+      ▼
+  More debugging 🐛
+      │
+      ▼
+   Better code ✨
+      │
+      ▼
+      🚀
+      🌸 GitHub Statistics
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fidanmaharramli&show_icons=true&theme=rose_pine&hide_border=true&title_color=E75480&icon_color=E75480&text_color=8E5A6A&bg_color=FFF5F8" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidanmaharramli&layout=compact&theme=rose_pine&hide_border=true&title_color=E75480&text_color=8E5A6A&bg_color=FFF5F8" />
+
+</div>
+
+🎀 Contribution Streak
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=fidanmaharramli&theme=rose_pine&hide_border=true&background=FFF5F8&ring=E75480&fire=E75480&currStreakLabel=E75480" />
+
+</div>
+
+🌷 GitHub Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fidanmaharramli&bg_color=fff5f8&color=e75480&line=e75480&point=ff69b4&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+💻 Current Focus
+<div align="center">
+
+🌸 Building a strong foundation in backend development
+
+C#  →  .NET  →  OOP  →  SQL  →  EF Core  →  ORM
+
+
+
+🎯 Goal: become a confident .NET developer
+🌱 Status: learning and building
+💗 Mindset: progress over perfection
+</div>
+
+🐛 Debugging Philosophy
+<div align="center">
+
+"I write bugs. Then I fix them. Sometimes."
+Write code      💻
+      ↓
+Run project     🚀
+      ↓
+Error           💀
+      ↓
+Google          🔎
+      ↓
+Understand      🧠
+      ↓
+Fix it          🛠️
+      ↓
+Learn           🌱
+      ↓
+Repeat          ♻️
+🌸 A Few Things About Me
+<div align="center">
+
+💗 I enjoy learning new things
+
+
+🌷 I like exploring different languages
+
+
+💻 I enjoy building projects and seeing them actually work
+
+
+🧠 I believe mistakes are part of learning
+
+
+🎀 I am still at the beginning of my developer journey
+
+
+🚀 And I'm just getting started...
+</div>
+
+🎀 Let's Connect
+<div align="center">
+
+<a href="https://github.com/fidanmaharramli">
+<img src="https://img.shields.io/badge/GitHub-Fidan%20Məhərrəmli-E75480?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+
+<div align="center">
+
+🌷 Thanks for visiting my profile! 🌷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
+
+</div>
 ```
-
----
-
-### <g-emoji class="g-emoji" alias="pink_heart" fallback-src="https://githubassets.com">💕</g-emoji> <code>My Journey & Progress</code>
-
-> *Curiosity ➔ Learning ➔ Trying ➔ "Why doesn't this work?" ➔ Debugging ➔ Understanding ➔ Building ➔ Repeat*
-
-| 🎀 Technology | 🛠 Status |
-| :--- | :--- |
-| **C#** | 🟩 <code>Learning</code> |
-| **.NET** | 🟩 <code>Learning</code> |
-| **OOP** | 🟩 <code>Learning</code> |
-| **Entity Framework Core** | 🟩 <code>Learning</code> |
-| **SQL Server** | 🟩 <code>Learning</code> |
-| **ORM** | 🟩 <code>Learning</code> |
-| **Git & GitHub** | 🟩 <code>Learning</code> |
-| **N-Tier Architecture** | 🟨 <code>Exploring</code> |
-| **Web Development** | ⬜ <code>Next step</code> |
-
----
-
-### <g-emoji class="g-emoji" alias="folder" fallback-src="https://githubassets.com">📂</g-emoji> <code>Projects I've Worked On</code>
-
-* 🐙 **[TicketSystem-OrmTask](https://github.com)**
-  > *A ticket management system created while learning C#, .NET, Entity Framework Core, and N-Tier architecture.*
-* 🐙 **[RestaurantApp](https://github.com)**
-  > *A restaurant ordering system created to practice working with entities, services, repositories, and multi-layer architecture.*
-* 🐙 **[StudentGroup](https://github.com)**
-  > *A student and group management system created while learning database relationships and CRUD operations.*
-* 🐙 **[AeonGridUltra](https://github.com)**
-  > *An OOP practice project focused on classes, interfaces, extensions, and object-oriented programming.*
-
----
-
-### <g-emoji class="g-emoji" alias="target" fallback-src="https://githubassets.com">🎯</g-emoji> <code>Where I'm Going (Goals)</code>
-
-* 🌸 `Become confident with C# and .NET`
-* 🌸 `Improve my SQL & database skills`
-* 🌸 `Understand OOP deeply`
-* 🌸 `Learn more about APIs & web development`
-* 🌸 `Understand software architecture`
-* 🌸 `Become more comfortable with Git & GitHub`
-* 🌸 `Keep building real projects`
-* 🌸 `Improve my English`
-* 🌸 `Keep moving forward, one step at a time`
-
----
-
-<p align="center">
-  🎀 <i>Thanks for visiting my little pink corner of GitHub!</i> 🌸
-</p>
-
