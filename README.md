@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🌸 Hi, I'm Fidan! 🌸
 
@@ -10,16 +10,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-</div>
 
----
 
 ## 🌷 About Me
 
-```csharp
+
 public class Fidan
 {
-    public string Name => "Fidan Məhərrəmli";
+    public string Name => "Fidan Maharrəmli";
     public string Role => "Junior C# / .NET Developer";
     
     public string[] CurrentlyLearning =>
@@ -53,7 +51,7 @@ public class Fidan
 🎯 Improving my coding skills step by step
 ☕ Powered by curiosity, caffeine and debugging
 🎀 Tech Stack
-<div align="center">
+
 
 💻 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
@@ -70,10 +68,9 @@ public class Fidan
 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
 
-</div>
+
 
 🌸 What I'm Learning
-<div align="center">
 | 🌷 Area | 💗 Focus |
 |:---:|:---|
 | `C#` | OOP, collections, methods, async/await |
@@ -135,7 +132,7 @@ Working with:
 🔗 Repository:
 https://github.com/fidanmaharramli/AeonGridUltra
 💗 My Developer Journey
-<div align="center">
+
       🌱
       │
       ▼
@@ -162,7 +159,6 @@ https://github.com/fidanmaharramli/AeonGridUltra
       ▼
       🚀
       🌸 GitHub Statistics
-<div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=fidanmaharramli&show_icons=true&theme=rose_pine&hide_border=true&title_color=E75480&icon_color=E75480&text_color=8E5A6A&bg_color=FFF5F8" />
 
@@ -175,17 +171,14 @@ https://github.com/fidanmaharramli/AeonGridUltra
 
 <img src="https://streak-stats.demolab.com?user=fidanmaharramli&theme=rose_pine&hide_border=true&background=FFF5F8&ring=E75480&fire=E75480&currStreakLabel=E75480" />
 
-</div>
+
 
 🌷 GitHub Activity
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fidanmaharramli&bg_color=fff5f8&color=e75480&line=e75480&point=ff69b4&area=true&hide_border=true" width="95%"/>
 
-</div>
 
 💻 Current Focus
-<div align="center">
 
 🌸 Building a strong foundation in backend development
 
@@ -196,10 +189,9 @@ C#  →  .NET  →  OOP  →  SQL  →  EF Core  →  ORM
 🎯 Goal: become a confident .NET developer
 🌱 Status: learning and building
 💗 Mindset: progress over perfection
-</div>
+
 
 🐛 Debugging Philosophy
-<div align="center">
 
 "I write bugs. Then I fix them. Sometimes."
 Write code      💻
@@ -218,7 +210,7 @@ Learn           🌱
       ↓
 Repeat          ♻️
 🌸 A Few Things About Me
-<div align="center">
+
 
 💗 I enjoy learning new things
 
@@ -236,22 +228,12 @@ Repeat          ♻️
 
 
 🚀 And I'm just getting started...
-</div>
+
 
 🎀 Let's Connect
-<div align="center">
 
-<a href="https://github.com/fidanmaharramli">
-<img src="https://img.shields.io/badge/GitHub-Fidan%20Məhərrəmli-E75480?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-
-<div align="center">
 
 🌷 Thanks for visiting my profile! 🌷
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
 
 </div>
 ```
